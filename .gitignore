@@ -1,0 +1,16 @@
+# Registros temporales de las herramientas de serie
+firmware/herramientas/_*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Compilación de Arduino
+build/
+*.bin
+*.elf
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
